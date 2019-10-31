@@ -4,7 +4,6 @@ https://www.draw.io/
 ## Software Engineering Files
 
 1.	Draft a <b>Project Plan</b> for any of the project, submitted in previous semester.
-_____________________________________________________________
 2.	Development of <b>SRS document</b> for the selected project.
 3.	To draw <b>Data Flow Diagram DFD</b>.
 4.	To draw <b>Entity Relationship Diagram ERD</b>.
